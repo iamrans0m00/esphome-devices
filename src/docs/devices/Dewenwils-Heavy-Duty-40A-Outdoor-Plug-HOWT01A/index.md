@@ -1,7 +1,7 @@
 ---
 title: Dewenwils Heavy Duty 40A Outdoor Plug (HOWT01A & TM-050B)
 date-published: 2023-07-01
-type: switch
+type: plug
 standard: us
 board: esp8266
 Made-for-esphome: False
